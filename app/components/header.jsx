@@ -14,7 +14,7 @@ export default function Header() {
         <h1 className="text-2xl font-bold">My Notes</h1>
       </Link>
       <Link to="/addNote" className="text-white hover:text-teal-200">
-        Add Note
+        Add Notee
       </Link>
     </header>
   );
